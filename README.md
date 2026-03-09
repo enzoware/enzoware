@@ -1,5 +1,5 @@
 # Hi, I'm Vincenzo 👋  
-[🌐Portfolio](https://enzoware.dpdns.org) · Network & Coding Enthusiast · Full Stack · [Organization📁](https://github.com/detaroom)
+Network & Coding Enthusiast · Full Stack · [Organization📁](https://github.com/detaroom)
 
 # Skills
 ### Programming / Scripting
